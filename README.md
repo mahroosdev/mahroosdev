@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mahroos Mahthie!
 
-I am a **Junior Software Engineer** specializing in building modern web, desktop, and mobile-connected applications. I love exploring cross-platform integration, real-time communication, and local workflow automation.
+I am a Junior Software Engineer and AI-Amplified Developer focused on building modern web, desktop, and mobile-connected applications. I combine strong software engineering fundamentals with AI-assisted workflows to move faster in planning, coding, debugging, documentation, and product iteration.
 
 🚀 **16+ projects shipped** across web, desktop, and mobile.
 
