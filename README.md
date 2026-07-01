@@ -42,6 +42,6 @@ An AI-first local desktop OS/platform concept featuring offline token streaming 
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn**: [mahroosdev](https://www.linkedin.com/in/mahroosdev)
+* 💼 **LinkedIn**: [mahroosdev]((https://www.linkedin.com/in/m-mahthiedev))
 * 📧 **Email**: [m.mahthie.dev@gmail.com](mailto:m.mahthie.dev@gmail.com)
 * 🌐 **Portfolio**: [portfolio-mahroos.netlify.app](https://portfolio-mahroos.netlify.app/)
